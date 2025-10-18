@@ -1,4 +1,4 @@
-# Shopping List Counter — Summary
+# Shopping List Counter - Summary
 
 Purpose
 - Small Vue 3 + TypeScript app to count grocery items and show a summary.
